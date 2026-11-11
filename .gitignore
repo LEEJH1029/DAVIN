@@ -1,0 +1,13 @@
+cache/
+runs/
+__pycache__/
+*.pyc
+*.pt
+.env
+data/*/*_preferences.json
+data/item/*/attributes.json
+data/item/images/
+.idea/
+.DS_Store
+.venv/
+venv/
