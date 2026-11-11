@@ -1,6 +1,6 @@
-# This repository provides the reference implementation of "DAVIN: Fine-Grained Preference--Attribute Matching on Multi-Modal Data for Visually-Aware Conversational Recommendation" that is currently submitted to ICDE 2027.
+# This repository provides the reference implementation of "DAVIN: Fine-Grained Preference-Attribute Matching on Multi-Modal Data for Visually-Aware Conversational Recommendation" that is currently submitted to ICDE 2027.
 
-# DAVIN: Fine-Grained Preference--Attribute Matching on Multi-Modal Data for Visually-Aware Conversational Recommendation
+# DAVIN: Fine-Grained Preference-Attribute Matching on Multi-Modal Data for Visually-Aware Conversational Recommendation
 
 ## Overview
 
